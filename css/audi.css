@@ -1,0 +1,59 @@
+.menu ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 5px 0px;
+    margin: 0px 30px;
+    font-weight: bolder;
+    width: 250px;
+    position: relative;
+    left: 450px;
+    z-index: 1;
+}
+.menu ul li a{
+    color:rgb(0, 0, 0);
+
+    text-decoration: none;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+.bannerimage{
+    position: absolute;
+    top: -5px;
+    left: -10px;
+}
+#resim2{
+    height:650px; 
+    width:1913px;
+}
+@media only screen and (max-width: 1280px) {
+    .menu ul li{
+        list-style-type: none;
+        display: inline-block;
+        padding: 5px 0px;
+        margin: 0px 30px;
+        font-weight: bolder;
+        width: 174px;
+        position: relative;
+        left: 213px;
+        z-index: 1;
+    }
+    .menu ul li a{
+        color:rgb(0, 0, 0);
+    
+        text-decoration: none;
+        font-size: 30px;
+        text-align: center;
+        font-family: 'Oswald', sans-serif;
+    }
+    .bannerimage{
+        position: absolute;
+        top: -5px;
+        left: -10px;
+    }
+    #resim2{
+        height:650px; 
+        width: 1273px;
+    }
+
+}
