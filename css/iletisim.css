@@ -44,7 +44,7 @@
     width: 194px;
 }
 #sumbit_:hover{
-    background-color: brown;
+    background-color: rgb(80, 180, 180);
 }
 #resim2{
     height:650px; 
@@ -95,7 +95,7 @@
         width: 194px;
     }
     #sumbit_:hover{
-        background-color: brown;
+        background-color: rgb(80, 180, 180);
     }
 }
 @media only screen and (max-width: 1280px) {
@@ -142,7 +142,7 @@
         width: 194px;
     }
     #sumbit_:hover{
-        background-color: brown;
+        background-color: rgb(80, 180, 180);
     }
 
 }
